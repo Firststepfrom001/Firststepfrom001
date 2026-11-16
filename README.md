@@ -20,7 +20,7 @@
 
 ## 关于我
 
-广告公司 OPC 负责人，负责方案策划、创意统筹与项目落地。习惯把一次活动拆成「策略 — 创意 — 执行 — 复盘」四段推进，再按客户所处行业调整视觉与表达的分寸。
+广告公司 Creative 001 主理人，负责方案策划、创意统筹与项目落地。习惯把一次活动拆成「策略 — 创意 — 执行 — 复盘」四段推进，再按客户所处行业调整视觉与表达的分寸。
 
 <sub>*OPC lead at an advertising agency. I run campaigns end to end and adapt visual and verbal tone to each client's industry.*</sub>
 
