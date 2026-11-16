@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" alt="OPC — 广告创意工作室" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+    <img src="./banner-light.svg" alt="OPC — 广告创意工作室" width="100%">
   </picture>
 </p>
 
